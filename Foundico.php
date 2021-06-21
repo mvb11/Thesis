@@ -1,6 +1,6 @@
 <?php
-$privateKey = '3d00c4c9e3de11adb394b3a527cb8416';
-$publicKey = 'bb9033de9f7e933d55574b27cfd181f5';
+$privateKey = '';
+$publicKey = '';
 
 $x = array(
 	126,132,166,172,175,185,186,193,196,197,198,204,205,229,233,239,242,245,246,251,
